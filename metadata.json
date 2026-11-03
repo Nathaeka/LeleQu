@@ -1,0 +1,6 @@
+{
+  "name": "LeleQu - Modern Aquaculture Company Website",
+  "description": "Website resmi dan Content Management System (CMS) LeleQu - Platform perikanan air tawar modern untuk budidaya, katalog produk, dan pemesanan ikan lele berkualitas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

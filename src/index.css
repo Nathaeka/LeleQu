@@ -1,0 +1,18 @@
+@import "tailwindcss";
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --font-sans: 'Plus Jakarta Sans', system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+  --color-brand-forest: #123F2E;
+  --color-brand-primary: #1B6044;
+  --color-brand-fresh: #78B98B;
+  --color-brand-mint: #E8F3E9;
+  --color-brand-offwhite: #F8FAF6;
+  --color-brand-dark: #202923;
+  --color-brand-secondary: #6B786F;
+}
+
+body {
+  font-family: var(--font-sans);
+}
